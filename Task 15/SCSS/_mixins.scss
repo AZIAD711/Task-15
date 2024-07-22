@@ -1,0 +1,19 @@
+@mixin margin($size) {
+    margin: $size;
+  }
+  
+  @mixin padding($size) {
+    padding: $size;
+  }
+  
+  @mixin font-size($size) {
+    font-size: $size;
+  }
+  
+  @mixin width($size) {
+    width: $size;
+  }
+  
+  @mixin height($size) {
+    height: $size;
+  }

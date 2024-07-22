@@ -1,0 +1,10 @@
+@import '_val'; 
+@import '_reset'; 
+@import '_mixins'; 
+@import '_utility'; 
+h1{
+    color: $secondary-color;
+}
+h2{
+    color: $primary-color;
+}

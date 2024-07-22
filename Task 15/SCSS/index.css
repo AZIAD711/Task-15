@@ -1,0 +1,25 @@
+body {
+  background-color: #ecf0f1;
+  color: #2ecc71;
+  font-family: Arial, sans-serif;
+}
+
+.margin-small {
+  margin: 0.5rem;
+}
+
+.margin-medium {
+  margin: 1rem;
+}
+
+.margin-large {
+  margin: 2rem;
+}
+
+h1 {
+  color: #2ecc71;
+}
+
+h2 {
+  color: #3498db;
+}/*# sourceMappingURL=index.css.map */
